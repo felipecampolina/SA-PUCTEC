@@ -1,0 +1,50 @@
+2023-07-20T17:06:00+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: int * string in C:\xampp\htdocs\wordpress2\wp-content\plugins\woolentor-addons\includes\archive_product_render.php:168
+Stack trace:
+#0 C:\xampp\htdocs\wordpress2\wp-content\plugins\woolentor-addons\includes\archive_product_render.php(31): Archive_Products_Render->parse_query_args()
+#1 C:\xampp\htdocs\wordpress2\wp-content\plugins\woolentor-addons\includes\addons\wb_archive_product.php(947): Archive_Products_Render->__construct(Array, 'products', true)
+#2 C:\xampp\htdocs\wordpress2\wp-content\plugins\elementor\includes\base\controls-stack.php(2268): Elementor\Woolentor_Wb_Archive_Product_Widget->render()
+#3 C:\xampp\htdocs\wordpress2\wp-content\plugins\elementor\includes\base\widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#4 C:\xampp\htdocs\wordpress2\wp-content\plugins\elementor\core\base\document.php(292): Elementor\Widget_Base->render_content()
+#5 C:\xampp\htdocs\wordpress2\wp-content\plugins\elementor\includes\managers\widgets.php(445): Elementor\Core\Base\Document->render_element(Array)
+#6 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#7 C:\xampp\htdocs\wordpress2\wp-content\plugins\elementor\core\common\modules\ajax\module.php(175): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#8 C:\xampp\htdocs\wordpress2\wp-includes\class-wp-hook.php(308): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#9 C:\xampp\htdocs\wordpress2\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#10 C:\xampp\htdocs\wordpress2\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#11 C:\xampp\htdocs\wordpress2\wp-admin\admin-ajax.php(188): do_action('wp_ajax_element...')
+#12 {main}
+  thrown, em C:\xampp\htdocs\wordpress2\wp-content\plugins\woolentor-addons\includes\archive_product_render.php, na linha 168
+
+2023-07-20T17:43:40+00:00 CRITICAL Uncaught ValueError: Path cannot be empty in C:\xampp\htdocs\wordpress2\wp-content\plugins\woocommerce\includes\wc-template-functions.php:53
+Stack trace:
+#0 C:\xampp\htdocs\wordpress2\wp-includes\class-wp-hook.php(308): wc_template_redirect('')
+#1 C:\xampp\htdocs\wordpress2\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress2\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress2\wp-includes\template-loader.php(13): do_action('template_redire...')
+#4 C:\xampp\htdocs\wordpress2\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress2\index.php(17): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown, em C:\xampp\htdocs\wordpress2\wp-content\plugins\woocommerce\includes\wc-template-functions.php, na linha 53
+
+2023-07-20T17:43:58+00:00 CRITICAL Uncaught ValueError: Path cannot be empty in C:\xampp\htdocs\wordpress2\wp-content\plugins\woocommerce\includes\wc-template-functions.php:53
+Stack trace:
+#0 C:\xampp\htdocs\wordpress2\wp-includes\class-wp-hook.php(308): wc_template_redirect('')
+#1 C:\xampp\htdocs\wordpress2\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress2\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress2\wp-includes\template-loader.php(13): do_action('template_redire...')
+#4 C:\xampp\htdocs\wordpress2\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress2\index.php(17): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown, em C:\xampp\htdocs\wordpress2\wp-content\plugins\woocommerce\includes\wc-template-functions.php, na linha 53
+
+2023-07-20T17:44:26+00:00 CRITICAL Uncaught ValueError: Path cannot be empty in C:\xampp\htdocs\wordpress2\wp-content\plugins\woocommerce\includes\wc-template-functions.php:53
+Stack trace:
+#0 C:\xampp\htdocs\wordpress2\wp-includes\class-wp-hook.php(308): wc_template_redirect('')
+#1 C:\xampp\htdocs\wordpress2\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress2\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress2\wp-includes\template-loader.php(13): do_action('template_redire...')
+#4 C:\xampp\htdocs\wordpress2\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress2\index.php(17): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown, em C:\xampp\htdocs\wordpress2\wp-content\plugins\woocommerce\includes\wc-template-functions.php, na linha 53
+

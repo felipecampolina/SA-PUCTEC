@@ -1,0 +1,92 @@
+# Translation of Themes - ListingHive in Portuguese (Brazil)
+# This file is distributed under the same license as the Themes - ListingHive package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-08-01 18:50+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Themes - ListingHive\n"
+"Language-Team: Português do Brasil\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-01 18:50+0000\n"
+"Last-Translator: \n"
+"X-Loco-Version: 2.6.4; wp-6.2.2"
+
+#. Description of the theme
+msgid ""
+"A multipurpose WordPress theme that allows you to build any type of "
+"directory and listing websites. Whether it’s a business directory, job board,"
+" real estate, classifieds or basically any listing website — ListingHive is "
+"a great choice for it."
+msgstr ""
+"Um tema WordPress multiuso que permite a construção de qualquer tipo de "
+"diretório e sites de anúncios. Seja um diretório de negócios, um quadro de "
+"empregos, imóveis, classificados ou basicamente qualquer site de anúncios - "
+"ListingHive é uma ótima escolha para isso."
+
+#. the post author.
+#: templates/post/post-details.php:10
+msgid "By %s"
+msgstr "Por %s"
+
+#: comments.php:36
+msgid "Cancel Reply"
+msgstr "Cancelar resposta"
+
+#: comments.php:3
+msgid "Comments"
+msgstr "Comentários"
+
+#: includes/configs/theme-mods.php:47
+msgid "Enable parallax effect"
+msgstr "Habilitar efeito parallax"
+
+#. Author of the theme
+msgid "HivePress"
+msgstr "HivePress"
+
+#. Author URI of the theme
+msgid "https://hivepress.io"
+msgstr "https://hivepress.io"
+
+#. URI of the theme
+msgid "https://hivepress.io/themes/listinghive"
+msgstr "https://hivepress.io/themes/listinghive"
+
+#. Name of the theme
+msgid "ListingHive"
+msgstr "ListingHive"
+
+#: index.php:17
+msgid "Nothing found"
+msgstr "Nada foi encontrado"
+
+#: searchform.php:2
+msgctxt "noun"
+msgid "Search"
+msgstr "Pesquisa"
+
+#: templates/post/post-details.php:3
+msgctxt "post"
+msgid "Pinned"
+msgstr "Fixado"
+
+#: templates/post/post-details.php:20
+msgid "Read More"
+msgstr "Leia mais"
+
+#: templates/comment.php:16
+msgid "Reply"
+msgstr "Responder"
+
+#: index.php:18
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Nada foi encontrado com os termos da sua pesquisa. Tente novamente com "
+"algumas palavras-chaves diferentes."

@@ -1,0 +1,133 @@
+# Translation of Plugins - HivePress Claim Listings - Stable (latest release) in Portuguese (Brazil)
+# This file is distributed under the same license as the Plugins - HivePress Claim Listings - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-04-21 15:56:49+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Plugins - HivePress Claim Listings - Stable (latest release)\n"
+
+#: includes/components/class-listing-claim.php:90
+msgid "You've already submitted a claim."
+msgstr "Você já enviou uma reivindicação."
+
+#: includes/configs/strings.php:16
+msgid "You can't claim your own listings."
+msgstr "Você não pode reivindicar os suas próprias anúncios."
+
+#: includes/configs/post-types.php:23
+msgctxt "claim"
+msgid "Add New"
+msgstr "Adicionar nova"
+
+#: includes/configs/post-types.php:24 includes/configs/post-types.php:26
+msgid "Add Claim"
+msgstr "Adicionar reivindicação"
+
+#. Description of the plugin
+msgid "Charge users for claiming listings."
+msgstr "Cobre os usuários pelas reivindicação dos anúncios."
+
+#. translators: %s: price.
+#: includes/components/class-listing-claim.php:434
+msgid "Claim for %s"
+msgstr "Reivindicar %s"
+
+#: includes/forms/class-listing-claim-submit.php:49
+msgid "Your claim has been submitted."
+msgstr "A sua reivindicação foi enviada."
+
+#: includes/configs/strings.php:15
+msgid "Please provide details that will help us verify that you're the owner of this listing."
+msgstr "Forneça detalhes que nos ajudarão a confirmar que você é o proprietário deste anúncio."
+
+#: includes/emails/class-listing-claim-submit.php:31
+msgid "A new claim for listing \"%listing_title%\" %claim_url% has been submitted with the following details: %claim_details%"
+msgstr "Uma nova reivindicação para o anúncio \"%listing_title%\" %claim_url% foi enviado com os seguintes detalhes: %claim_details%"
+
+#: includes/configs/post-types.php:29 includes/configs/post-types.php:30
+msgid "No claims found."
+msgstr "Nenhuma reivindicação encontrada."
+
+#: includes/configs/post-types.php:22
+msgid "Claim"
+msgstr "Reivindicar"
+
+#: includes/configs/post-types.php:21 includes/configs/post-types.php:27
+#: includes/configs/settings.php:15
+msgid "Claims"
+msgstr "Reivindicações"
+
+#: includes/emails/class-listing-claim-reject.php:50
+msgid "Hi, %user_name%! Unfortunately, your claim for listing \"%listing_title%\" has been rejected."
+msgstr "Olá, %user_name%! Infelizmente, a sua reivindicação para o anúncio \"%listing_title%\" foi rejeitada."
+
+#: includes/emails/class-listing-claim-approve.php:50
+msgid "Hi, %user_name%! Your claim for listing \"%listing_title%\" has been approved, click on the following link to edit it: %listing_url%"
+msgstr "Olá, %user_name%! A sua reivindicação para o anúncio \"%listing_title%\" foi aprovada, clique no link a seguir para a editar: %listing_url%"
+
+#: includes/configs/settings.php:35
+msgid "Manually approve new claims"
+msgstr "Aprovar manualmente as novas reivindicações"
+
+#: includes/configs/settings.php:26
+msgid "Choose a product that must be purchased in order to submit a claim."
+msgstr "Escolha um produto que deve ser comprado para enviar uma reivindicação."
+
+#. translators: %s: listing title.
+#: includes/configs/strings.php:18
+msgid "Thank you! Your claim for listing \"%s\" has been submitted and will be reviewed as soon as possible."
+msgstr "Obrigado! A sua reivindicação para o anúncio \"%s\" foi enviada e será analisada o mais rápido possível."
+
+#. translators: %s: listing title.
+#: includes/configs/strings.php:20
+msgid "Thank you! Your claim for listing \"%s\" has been approved and you can start managing it."
+msgstr "Obrigado! A sua reivindicação para o anúncio \"%s\" foi aprovado e você já pode começar a lidar com ela."
+
+#. Author URI of the plugin
+msgid "https://hivepress.io/"
+msgstr "https://hivepress.io/"
+
+#. Author of the plugin
+msgid "HivePress"
+msgstr "HivePress"
+
+#: includes/configs/post-types.php:25
+msgid "Edit Claim"
+msgstr "Editar reivindicação"
+
+#: includes/configs/post-types.php:28
+msgid "Search Claims"
+msgstr "Pesquisar reivindicações"
+
+#: includes/configs/strings.php:14
+msgid "Claim Listing"
+msgstr "Reivindicar anúncio"
+
+#: includes/controllers/class-listing-claim.php:175
+#: includes/emails/class-listing-claim-approve.php:30
+#: includes/emails/class-listing-claim-approve.php:49
+msgid "Claim Approved"
+msgstr "Reivindicação aprovada"
+
+#: includes/emails/class-listing-claim-reject.php:30
+#: includes/emails/class-listing-claim-reject.php:49
+msgid "Claim Rejected"
+msgstr "Reivindicação rejeitada"
+
+#: includes/controllers/class-listing-claim.php:154
+#: includes/emails/class-listing-claim-submit.php:30
+msgid "Claim Submitted"
+msgstr "Reivindicação enviada"
+
+#: includes/forms/class-listing-claim-submit.php:64
+msgid "Submit Claim"
+msgstr "Enviar reivindicação"
+
+#. Plugin Name of the plugin
+msgid "HivePress Claim Listings"
+msgstr "HivePress Claim Listings (Reivindicações de anúncios do HivePress)"
