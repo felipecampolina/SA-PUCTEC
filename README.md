@@ -2,6 +2,7 @@
 Repositório para Gestão Dinâmica de Demandas e Projetos do SA-PUCTEC
 Repositório GitHub para Gestão Dinâmica de Demandas e Projetos
 Orientador: Will Ricardo dos Santos Machado
+
 Bolsista: Felipe Campolina Soares de Paula
 
 # Objetivos:
