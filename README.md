@@ -1,6 +1,8 @@
 # SA-PUCTEC - Perfil 4 - Desenvolvimento Web PHP
 Repositório para Gestão Dinâmica de Demandas e Projetos do SA-PUCTEC
 Repositório GitHub para Gestão Dinâmica de Demandas e Projetos
+Orientador: Will Ricardo dos Santos Machado
+Bolsista: Felipe Campolina Soares de Paula
 
 # Objetivos:
 Este repositório tem como objetivo facilitar a dinâmica de trabalho para o atendimento das demandas e gerenciamento de demandas da Puctec, fornecendo um conjunto de ferramentas, guias e boas práticas para otimizar a colaboração e o acompanhamento das atividades. Buscamos promover uma gestão eficiente, transparente e colaborativa de projetos, maximizando a produtividade e qualidade das entregas.
