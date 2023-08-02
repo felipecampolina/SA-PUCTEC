@@ -17,4 +17,5 @@ Entre no navegador e pesquise : localhost/wordpress
 Obs: Existem 4 instâncias de wordpress , ou seja , existe 4 caminhos de acesso, sendo eles: "wordpress" , "wordpress2","wordpress3","wordpress4"
 
 Usuario: root
+
 Senha: 123
