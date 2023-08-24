@@ -1,0 +1,133 @@
+ 
+ 
+ ==================15/08/2023 19:13:35 (DEBUG) START================== 
+ 
+Array
+(
+    [menu_slug] => profile
+    [menu] => Profile
+    [menu_image_id] => fas fa-chevron-left
+    [show_user_profile] => Enable
+    [menu_order] => 3
+    [user_role] => a:1:{i:0;s:13:"administrator";}
+    [extended] => 
+)
+ 
+ 
+ ==================15/08/2023 19:13:35 (DEBUG) END================== 
+ 
+ 
+ 
+ 
+ ==================15/08/2023 19:15:08 (DEBUG) START================== 
+ 
+Array
+(
+    [menu_slug] => profile
+    [menu] => Gerenciador de clientes
+    [menu_image_id] => fas fa-address-book
+    [show_user_profile] => Enable
+    [menu_order] => 3
+    [user_role] => a:1:{i:0;s:13:"administrator";}
+    [extended] => 
+)
+ 
+ 
+ ==================15/08/2023 19:15:08 (DEBUG) END================== 
+ 
+ 
+ 
+ 
+ ==================15/08/2023 19:20:59 (DEBUG) START================== 
+ 
+Array
+(
+    [menu_slug] => profile
+    [menu] => Gerenciador de clientes
+    [menu_image_id] => fas fa-address-book
+    [show_user_profile] => Enable
+    [menu_order] => 3
+    [user_role] => a:1:{i:0;s:13:"administrator";}
+    [extended] => 
+)
+ 
+ 
+ ==================15/08/2023 19:20:59 (DEBUG) END================== 
+ 
+ 
+ 
+ 
+ ==================15/08/2023 19:21:11 (DEBUG) START================== 
+ 
+Array
+(
+    [menu_slug] => profile
+    [menu] => Gerenciador de clientes
+    [menu_image_id] => fas fa-address-book
+    [show_user_profile] => Enable
+    [menu_order] => 3
+    [user_role] => a:1:{i:0;s:13:"administrator";}
+    [extended] => 
+)
+ 
+ 
+ ==================15/08/2023 19:21:11 (DEBUG) END================== 
+ 
+ 
+ 
+ 
+ ==================15/08/2023 19:22:04 (DEBUG) START================== 
+ 
+Array
+(
+    [menu_slug] => profile
+    [menu] => Gerenciador de clientes
+    [menu_image_id] => fas fa-address-book
+    [show_user_profile] => Enable
+    [menu_order] => 3
+    [user_role] => a:1:{i:0;s:13:"administrator";}
+    [extended] => 
+)
+ 
+ 
+ ==================15/08/2023 19:22:04 (DEBUG) END================== 
+ 
+ 
+ 
+ 
+ ==================15/08/2023 19:23:02 (DEBUG) START================== 
+ 
+Array
+(
+    [menu_slug] => gerenciador_de_clientes02
+    [menu] => Gerenciador de clientes02
+    [menu_image_id] => 
+    [show_user_profile] => Enable
+    [menu_order] => 2
+    [user_role] => a:1:{i:0;s:13:"administrator";}
+    [extended] => 
+)
+ 
+ 
+ ==================15/08/2023 19:23:02 (DEBUG) END================== 
+ 
+ 
+ 
+ 
+ ==================15/08/2023 19:23:35 (DEBUG) START================== 
+ 
+Array
+(
+    [menu_slug] => gerenciador_de_clientes02
+    [menu] => Gerenciador de clientes02
+    [menu_image_id] => fas fa-calendar-minus
+    [show_user_profile] => Enable
+    [menu_order] => 2
+    [user_role] => a:1:{i:0;s:13:"administrator";}
+    [extended] => 
+)
+ 
+ 
+ ==================15/08/2023 19:23:35 (DEBUG) END================== 
+ 
+ 
